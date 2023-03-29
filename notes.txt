@@ -1,0 +1,2 @@
+prima CLI -> Prisma Client -> Prisma Migration -> Migration is like updating the tables
+Relationship field -> than relation
